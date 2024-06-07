@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>I am your assistant teacher </pattern>
+    <template>thank you.</template>
+  </category>
+<category>
+    <pattern>Hi</pattern>
+    <template>hi</template>
+</category>
+</aiml>
